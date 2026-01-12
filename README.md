@@ -2,6 +2,8 @@
 
 # Brollo Original and Open-Source Testing System (Boots)
 
+**!Attention: You should check another repo called Boots for more details. Check it [HERE](https://github.com/BoogonAgora/Boots)**
+
 A simple project for running AI VTuber like my Brollo.
 
 ## Deployment Guide
