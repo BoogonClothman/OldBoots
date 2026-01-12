@@ -2,6 +2,8 @@
 
 # 布洛洛原创开源测试系统（Boots）
 
+**！注意：你应该检查另外一个叫做Boots的仓库。请在[这里](https://github.com/BoogonAgora/Boots)查看**
+
 一个用于运行像布洛洛一样的AI虚拟主播的简单项目。
 
 ## 如何部署
